@@ -16,17 +16,17 @@ function Present() {
           <div className="gift-bottom"></div>
           <div id="raffle-red" className="entry raffle raffle-1">
             <div className="no-scale">
-              <span className="ticket-text">Free<br/>Pedicure</span>
+              <span className="ticket-text">my beloved<br/>Shabila</span>
             </div>
           </div>
           <div id="raffle-red" className="entry raffle raffle-2">
             <div className="no-scale">
-              <span className="ticket-text">Free<br/>Massage</span>
+              <span className="ticket-text">I Miss You <br/>So Much</span>
             </div>
           </div>
           <div id="raffle-red" className="entry raffle raffle-3">
             <div className="no-scale">
-              <span className="ticket-text">Free<br/>Dinner</span>
+              <span className="ticket-text">I Love You<br/>So Much</span>
             </div>
           </div>
         </label>
